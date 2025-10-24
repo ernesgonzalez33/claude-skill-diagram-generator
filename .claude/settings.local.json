@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Skill(example-skills:skill-creator)",
+      "Read(//home/ergonzal/.claude/plugins/marketplaces/anthropic-agent-skills/skill-creator/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
